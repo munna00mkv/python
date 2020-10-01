@@ -1,2 +1,2 @@
-# test
-test Repository for git basics commands
+# python
+python Repository for git basics commands
