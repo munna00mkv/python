@@ -1,2 +1,2 @@
 # python
-python Repository for git basics commands
+This Repository contains all the basic program of python.
